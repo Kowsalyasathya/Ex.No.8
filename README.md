@@ -1,4 +1,4 @@
-## Exp 8: Reproducing an Image Using Prompts for Image Generation
+# Exp 8: Reproducing an Image Using Prompts for Image Generation
 
 # Date : 24.09.2025
 # Reg. No: 212222230069
@@ -60,7 +60,7 @@ Assess how closely the generated image matches the original in terms of colors, 
 
 ## Sample Outputs:
 
-Image 1: Sunset Over Mountains
+### Image 1: Sunset Over Mountains
 
 Basic Prompt: A sunset over a mountain range.
 
@@ -72,7 +72,7 @@ Sample Output (Expected):
 
 An AI-generated image showing mountains in purple tones, an orange sunset, a reflective river, and realistic lighting.
 
-Image 2: Street Scene at Night
+### Image 2: Street Scene at Night
 
 Basic Prompt: A busy street at night.
 
